@@ -1,6 +1,6 @@
 -- select
 
-select * from users;
+select name from users;
 
 -- insert
 

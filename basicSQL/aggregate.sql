@@ -40,3 +40,6 @@ GROUP BY title;
 SELECT title, Max(cartoon_rating) AS min_rating
 FROM cartoon
 GROUP BY title;
+
+select title , avg(cartoon_rating) as worth, sum(net_worth) as rate from cartoon where title='GTA V' GROUP BY title order by rate;
+
