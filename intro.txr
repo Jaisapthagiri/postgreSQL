@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+\l to see all the databases
+
+\c to switch the database
+
+\dt - see table names
+
+\pset pager off
+
+DATABASE - A database is a structured collection of data stored on a computer. It is a powerful tool for storing and organizing data efficiently.
+
+SQL - language used to control and query databases
+
+RDBMS -  This is the most common database type, organizing data into tables with rows and columns. The popular RDBMS are PostgreSQL, MySQL, MariaDB, Oracle Database, SQL Server, and IBM Db2.
+
+Data Types - 
+
+String
+Number 
+Boolean
+Date
+Time
+TimeStamp
+
+Operators
+
+= , < , >, <=, >=, <>(!=), Like, ILike, AND, Or, Not, In, Between, Is Null
+
+DDL - Create, Alter, Drop, Trucate 
+
+DML - Select, insert, update, delete
+
+Aggregate - Sum, Count, Avg, Min, Max
+
+
+=======
+\l to see all the databases
+
+\c to switch the database
+
+\dt - see table names
+
+\pset pager off
+
+DATABASE - A database is a structured collection of data stored on a computer. It is a powerful tool for storing and organizing data efficiently.
+
+SQL - language used to control and query databases
+
+RDBMS -  This is the most common database type, organizing data into tables with rows and columns. The popular RDBMS are PostgreSQL, MySQL, MariaDB, Oracle Database, SQL Server, and IBM Db2.
+
+Data Types - 
+
+String
+Number 
+Boolean
+Date
+Time
+TimeStamp
+
+Operators
+
+= , < , >, <=, >=, <>(!=), Like, ILike, AND, Or, Not, In, Between, Is Null
+
+DDL - Create, Alter, Drop, Trucate 
+
+DML - Select, insert, update, delete
+
+Aggregate - Sum, Count, Avg, Min, Max
+
+
+>>>>>>> c9fff48053e28091d9877ebb743361597b2293a1
