@@ -41,4 +41,6 @@ drop table users;
 
 truncate table users;
 
-select  'hello' || ' ' || 'world'
+select  'hello' || ' ' || 'world';
+
+

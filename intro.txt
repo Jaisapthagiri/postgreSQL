@@ -12,18 +12,9 @@ SQL - language used to control and query databases
 
 RDBMS -  This is the most common database type, organizing data into tables with rows and columns. The popular RDBMS are PostgreSQL, MySQL, MariaDB, Oracle Database, SQL Server, and IBM Db2.
 
-Data Types - 
+Data Types - String, Number , Boolean, Date, Time, TimeStamp
 
-String
-Number 
-Boolean
-Date
-Time
-TimeStamp
-
-Operators
-
-= , < , >, <=, >=, <>(!=), Like, ILike, AND, Or, Not, In, Between, Is Null
+Operators - = , < , >, <=, >=, <>(!=), Like, ILike, AND, Or, Not, In, Between, Is Null
 
 DDL - Create, Alter, Drop, Trucate 
 
@@ -31,4 +22,8 @@ DML - Select, insert, update, delete
 
 Aggregate - Sum, Count, Avg, Min, Max
 
-
+Numbers → INT, NUMERIC
+Text → TEXT, VARCHAR
+True/False → BOOLEAN
+Date → DATE, TIMESTAMP
+Advanced → JSONB, ARRAY
