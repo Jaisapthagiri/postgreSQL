@@ -1,6 +1,0 @@
-data types all
-
-operators with example -
-    Operators - = , < , >, <=, >=, <>(!=), Like, ILike, AND, Or, Not, In, Between, Is Null
-
-EOD - Data Constraints, Join Queries, scalar, column, row, table
