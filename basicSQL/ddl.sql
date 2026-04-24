@@ -43,4 +43,3 @@ truncate table users;
 
 select  'hello' || ' ' || 'world';
 
-
